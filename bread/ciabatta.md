@@ -17,7 +17,7 @@ Gli ingredienti sono in percentuale sul peso della farina:
 - **12.5gr 2.5% sale**
 - **50gr 10% olio**
 - **5gr 1% malto diastatico**
-- **5gr 1% di lievito, 5gr minimo**
+- **5gr 1% di lievito**
 
 ## Procedimento
 
@@ -25,7 +25,7 @@ Gli ingredienti sono in percentuale sul peso della farina:
 1. Mescola:
    - 50% della farina
    - Idratazione al 55% sul peso della farina della biga
-   - 1% di lievito sul peso della farina della biga (minimo 5g se utilizzi lievito di birra secco).
+   - 1% di lievito sul peso della farina della biga.
 2. Lascia riposare la biga:
    - A temperatura ambiente per **1-2 ore**, per avviare la fermentazione.
    - Poi trasferiscila in frigorifero per **24 ore**.
